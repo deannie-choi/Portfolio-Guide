@@ -35,6 +35,12 @@ Welcome to my data science portfolio. This repository showcases a collection of 
       <td>XGBoost, Pandas, Seaborn</td>
       <td>Predict survival using feature engineering and EDA.</td>
     </tr>
+    <tr>
+      <td>🚗 <a href="#">Used Car Price Prediction</a></td>
+      <td>2025-05-13</td>
+      <td>XGBoost, Pandas, Seaborn</td>
+      <td>Predict survival using feature engineering and EDA.</td>
+    </tr>
   </tbody>
 </table>
 
