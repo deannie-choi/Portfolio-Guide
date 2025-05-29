@@ -10,7 +10,7 @@ Welcome to my data science portfolio. This repository showcases a collection of 
 # SQL
 | Project Link | Completion Date | Tools | Project Description |
 |-------------|----------------|-------|----------------------|
-| [🎮 Video Games Sales](https://github.com/deannie-choi/Video-games-sales) | 05-28-2025 | SQLite, Pandas, Tableau | Analyzing video game sales and critic scores. |
+| 🎮 [Video Games Sales](https://github.com/deannie-choi/Video-games-sales) | 05-28-2025 | SQLite, Pandas, Tableau | Analyzing video game sales and critic scores. |
 
 # Python
 | Project Link | Date       | Tools             | Description                                |
@@ -23,7 +23,7 @@ Welcome to my data science portfolio. This repository showcases a collection of 
 # Tableau
 | Project Link | Completion Date | Tools | Project Description |
 |-------------|----------------|-------|----------------------|
-| [🎮 Video Games Sales](https://github.com/deannie-choi/Video-games-sales) | 05-28-2025 | SQLite, Pandas, Tableau | Analyzing video game sales and critic scores. |
+| 🎮 [Video Games Sales](https://github.com/deannie-choi/Video-games-sales) | 05-28-2025 | SQLite, Pandas, Tableau | Analyzing video game sales and critic scores. |
 
 # R
 
