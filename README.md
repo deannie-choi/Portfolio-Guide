@@ -56,13 +56,9 @@ Welcome to my data science portfolio. This repository showcases a collection of 
 | [🎮 Video Games Sales](https://github.com/deannie-choi/Video-games-sales) | 05-28-2025 | SQLite, Pandas, Tableau | Analyzing video game sales and critic scores. |
 
 # R
-
-📁 Python Projects
-├── 🌸 Iris Classification …………….. Classify iris species with visualized boundaries.
-│     📅 2025-02-04 | Tools: Numpy, Pandas
-├── 🚢 Titanic Survival Prediction ……… Predict survival with feature engineering and EDA.
-│     📅 2025-05-06 | Tools: Numpy, Pandas, Seaborn
-├── 🚗 Used Car Price Prediction ……….. Predict used car prices using regression modeling.
-│     📅 2025-05-13 | Tools: XGBoost, Pandas, Seaborn
-└── 🎯 Telco Churn Prediction ………….. Predict customer churn using classification models.
-📅 2025-05-24 | Tools: XGBoost, Pandas, Seaborn
+| Project Link | Date | Tools | Description |
+|--------------|------|-------|-------------|
+| 🌸 [Iris Classification](#) | 2025-02-04 | Pandas, Numpy | Classify iris species by petal/sepal size. |
+| 🚢 [Titanic Survival](#) | 2025-05-06 | Pandas, Seaborn | Predict survival using EDA and features. |
+| 🚗 [Used Car Price](#) | 2025-05-13 | XGBoost, Pandas | Predict prices of used vehicles. |
+| 🎯 [Telco Churn](#) | 2025-05-24 | XGBoost, Pandas | Predict churn from customer behavior. |
