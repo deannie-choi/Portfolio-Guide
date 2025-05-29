@@ -13,42 +13,12 @@ Welcome to my data science portfolio. This repository showcases a collection of 
 | [🎮 Video Games Sales](https://github.com/deannie-choi/Video-games-sales) | 05-28-2025 | SQLite, Pandas, Tableau | Analyzing video game sales and critic scores. |
 
 # Python
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left;">Project Link</th>
-      <th style="text-align:center;">Completion Date</th>
-      <th style="text-align:left;">Tools</th>
-      <th style="text-align:left;">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🌸 <a href="#">Iris Classification</a></td>
-      <td style="text-align:center;">02-04-2025</td>
-      <td>Numpy, Pandas</td>
-      <td>Classify iris species with visualized decision boundaries.</td>
-    </tr>
-    <tr>
-      <td>🚢 <a href="#">Titanic Survival Prediction</a></td>
-      <td style="text-align:center;">05-06-2025</td>
-      <td>Numpy, Pandas, Seaborn</td>
-      <td>Predict survival using feature engineering and EDA.</td>
-    </tr>
-    <tr>
-      <td>🚗 <a href="#">Used Car Price Prediction</a></td>
-      <td style="text-align:center;">05-13-2025</td>
-      <td>XGBoost, Pandas, Seaborn</td>
-      <td>Predict used car prices using regression modeling.</td>
-    </tr>
-    <tr>
-      <td>🎯 <a href="#">Telco Churn Prediction</a></td>
-      <td style="text-align:center;">05-24-2025</td>
-      <td>XGBoost, Pandas, Seaborn</td>
-      <td>Predict customer churn using classification models.</td>
-    </tr>
-  </tbody>
-</table>
+| Project Link | Date       | Tools             | Description                                |
+|--------------|------------|-------------------|--------------------------------------------|
+| 🌸 [Iris Classification](https://github.com/deannie-choi/iris-classification) | 02-04-2025 | Pandas, Numpy       | Classify iris species by petal/sepal size. |
+| 🚢 [Titanic Survival](https://github.com/deannie-choi/titanic-survival-prediction)    | 05-06-2025 | Pandas, Seaborn     | Predict survival using EDA and features.   |
+| 🚗 [Used Car Price](https://github.com/deannie-choi/Used-Car-Price-Prediction)      | 05-13-2025 | XGBoost, Pandas     | Predict prices of used vehicles.           |
+| 🎯 [Telco Churn](https://github.com/deannie-choi/Telco-Churn-Prediction)         | 05-24-2025 | XGBoost, Pandas     | Predict churn from customer behavior.      |
 
 # Tableau
 | Project Link | Completion Date | Tools | Project Description |
@@ -56,9 +26,4 @@ Welcome to my data science portfolio. This repository showcases a collection of 
 | [🎮 Video Games Sales](https://github.com/deannie-choi/Video-games-sales) | 05-28-2025 | SQLite, Pandas, Tableau | Analyzing video game sales and critic scores. |
 
 # R
-| Project Link | Date | Tools | Description |
-|--------------|------|-------|-------------|
-| 🌸 [Iris Classification](#) | 2025-02-04 | Pandas, Numpy | Classify iris species by petal/sepal size. |
-| 🚢 [Titanic Survival](#) | 2025-05-06 | Pandas, Seaborn | Predict survival using EDA and features. |
-| 🚗 [Used Car Price](#) | 2025-05-13 | XGBoost, Pandas | Predict prices of used vehicles. |
-| 🎯 [Telco Churn](#) | 2025-05-24 | XGBoost, Pandas | Predict churn from customer behavior. |
+
