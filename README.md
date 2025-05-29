@@ -49,6 +49,7 @@ Welcome to my data science portfolio. This repository showcases a collection of 
     </tr>
   </tbody>
 </table>
+
 # Tableau
 | Project Link | Completion Date | Tools | Project Description |
 |-------------|----------------|-------|----------------------|
