@@ -25,25 +25,25 @@ Welcome to my data science portfolio. This repository showcases a collection of 
   <tbody>
     <tr>
       <td>🌸 <a href="#">Iris Classification</a></td>
-      <td style="text-align:center;">2025-02-04</td>
+      <td style="text-align:center;">02-04-2025</td>
       <td>Numpy, Pandas</td>
       <td>Classify iris species with visualized decision boundaries.</td>
     </tr>
     <tr>
       <td>🚢 <a href="#">Titanic Survival Prediction</a></td>
-      <td style="text-align:center;">2025-05-06</td>
+      <td style="text-align:center;">05-06-2025</td>
       <td>Numpy, Pandas, Seaborn</td>
       <td>Predict survival using feature engineering and EDA.</td>
     </tr>
     <tr>
       <td>🚗 <a href="#">Used Car Price Prediction</a></td>
-      <td style="text-align:center;">2025-05-13</td>
+      <td style="text-align:center;">05-13-2025</td>
       <td>XGBoost, Pandas, Seaborn</td>
       <td>Predict used car prices using regression modeling.</td>
     </tr>
     <tr>
       <td>🎯 <a href="#">Telco Churn Prediction</a></td>
-      <td style="text-align:center;">2025-05-24</td>
+      <td style="text-align:center;">05-24-2025</td>
       <td>XGBoost, Pandas, Seaborn</td>
       <td>Predict customer churn using classification models.</td>
     </tr>
